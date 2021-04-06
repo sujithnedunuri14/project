@@ -1,0 +1,167 @@
+[
+ {
+   "id": "UNC-CH",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Gender",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Gender.Female",
+   "value": 16827,
+   "color": "#e9ded9"
+ },
+ {
+   "id": "UNC-CH.Gender.Male",
+   "value": 12642,
+   "color": "#d5c5be"
+ },
+ {
+   "id": "UNC-CH.Age",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Age.Under 25",
+   "value": 20873,
+   "color": "#808080"
+ },
+ {
+   "id": "UNC-CH.Age.25 and Over",
+   "value": 8595,
+   "color": "#80A0A0"
+ },
+ {
+   "id": "UNC-CH.Attendance",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Attendance.Full-Time",
+   "value": 25084,
+   "color": "#808080"
+ },
+ {
+   "id": "UNC-CH.Attendance.Part-Time",
+   "value": 4585,
+   "color": "#80A0A0"
+ },
+ {
+   "id": "UNC-CH.Residency",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Residency.In-State",
+   "value": 21232,
+   "color": "#808080"
+ },
+ {
+   "id": "UNC-CH.Residency.Out-of-State",
+   "value": 8237,
+   "color": "#80A0A0"
+ },
+ {
+   "id": "UNC-CH.Enrollment",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Enrollment.Undergraduate",
+   "value": 18523,
+   "color": "#808080"
+ },
+ {
+   "id": "UNC-CH.Enrollment.Graduate",
+   "value": 8427,
+   "color": "#80A0A0"
+ },
+ {
+   "id": "UNC-CH.Enrollment.Professional",
+   "value": 2519,
+   "color": "#E54F24"
+ },
+ {
+   "id": "UNC-CH.Citizenship",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Citizenship.US Citizen",
+   "value": 27114,
+   "color": "#808080"
+ },
+ {
+   "id": "UNC-CH.Citizenship.Resident Alien",
+   "value": 763,
+   "color": "#80A0A0"
+ },
+ {
+   "id": "UNC-CH.Citizenship.Nonresident Alien",
+   "value": 1592,
+   "color": "#E54F24"
+ },
+ {
+   "id": "UNC-CH.Proximity",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Proximity.On-Campus",
+   "value": 27100,
+   "color": "#808080"
+ },
+ {
+   "id": "UNC-CH.Proximity.Off-Campus",
+   "value": 2369,
+   "color": "#80A0A0"
+ },
+ {
+   "id": "UNC-CH.Race",
+   "value": null,
+   "color": ""
+ },
+ {
+   "id": "UNC-CH.Race.American Indian or Alaskan Native",
+   "value": 129,
+   "color": "#808080"
+ },
+ {
+   "id": "UNC-CH.Race.Asian",
+   "value": 3759,
+   "color": "#80A0A0"
+ },
+ {
+   "id": "UNC-CH.Race.Black or African-American",
+   "value": 2342,
+   "color": "#E54F24"
+ },
+ {
+   "id": "UNC-CH.Race.Hispanic",
+   "value": 2145,
+   "color": "#FF9900"
+ },
+ {
+   "id": "UNC-CH.Race.Native Hawaiian or Pacific Islander",
+   "value": 43,
+   "color": "#563B7E"
+ },
+ {
+   "id": "UNC-CH.Race.Race/Ethnicity Unknown",
+   "value": 1184,
+   "color": "#D6BA33"
+ },
+ {
+   "id": "UNC-CH.Race.Two or More Races",
+   "value": 1610,
+   "color": "#1169AE"
+ },
+ {
+   "id": "UNC-CH.Race.White",
+   "value": 18257,
+   "color": "#F6854D"
+ }
+]
