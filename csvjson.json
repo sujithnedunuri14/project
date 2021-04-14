@@ -1,0 +1,3502 @@
+[
+  {
+    "Department": "GAV",
+    "CourseCode": "AGAPRD",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AGAPRD",
+    "ModuleCode": "GAV4018-N",
+    "Pass": "100.00%",
+    "Present Percentage": 53.85
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AGAPRD",
+    "ModuleCode": "GAV4028-N",
+    "Pass": "100.00%",
+    "Present Percentage": 54.17
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AGMA",
+    "ModuleCode": "GAV4003-N",
+    "Pass": "60.00%",
+    "Present Percentage": 57.27
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AGMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 46.91
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AGMA",
+    "ModuleCode": "GAV4020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 46
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AQMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "91.67%",
+    "Present Percentage": 29.05
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AQMA",
+    "ModuleCode": "GAV4033-N",
+    "Pass": "83.33%",
+    "Present Percentage": 77.5
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AQMA",
+    "ModuleCode": "GAV4034-N",
+    "Pass": "75.00%",
+    "Present Percentage": 79.17
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AQMA1",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "50.00%",
+    "Present Percentage": 49.11
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AQMA1",
+    "ModuleCode": "GAV4033-N",
+    "Pass": "75.00%",
+    "Present Percentage": 65
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AQMA1",
+    "ModuleCode": "GAV4034-N",
+    "Pass": "50.00%",
+    "Present Percentage": 77.08
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ATDGMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "66.67%",
+    "Present Percentage": 52.94
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ATDGMA",
+    "ModuleCode": "GAV4037-N",
+    "Pass": "66.67%",
+    "Present Percentage": 46.67
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ATDGMA",
+    "ModuleCode": "GAV4038-N",
+    "Pass": "33.33%",
+    "Present Percentage": 57.89
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 48.48
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV0004-N",
+    "Pass": "100.00%",
+    "Present Percentage": 77.78
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV0005-N",
+    "Pass": "100.00%",
+    "Present Percentage": 52.94
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV1009-N",
+    "Pass": "83.33%",
+    "Present Percentage": 32.38
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV1013-N",
+    "Pass": "82.35%",
+    "Present Percentage": 38.91
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV1015-N",
+    "Pass": "100.00%",
+    "Present Percentage": 43.73
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV2008-N",
+    "Pass": "63.64%",
+    "Present Percentage": 55.56
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV2022-N",
+    "Pass": "72.73%",
+    "Present Percentage": 52.57
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "AVBA",
+    "ModuleCode": "GAV2024-N",
+    "Pass": "72.73%",
+    "Present Percentage": 34.09
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "CAM0001-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "CAM0002-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "CAM1008-N",
+    "Pass": "66.67%",
+    "Present Percentage": 91.67
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "CAM1009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 79.37
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "CAM1030-N",
+    "Pass": "100.00%",
+    "Present Percentage": 60.23
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "MED3040-N",
+    "Pass": "100.00%",
+    "Present Percentage": 78.26
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "MED3050-N",
+    "Pass": "100.00%",
+    "Present Percentage": 92.75
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "MED3051-N",
+    "Pass": "100.00%",
+    "Present Percentage": 89.47
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "MFP2005-N",
+    "Pass": "100.00%",
+    "Present Percentage": 88.89
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "MFP2006-N",
+    "Pass": "66.67%",
+    "Present Percentage": 71.79
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "BMPSNG",
+    "ModuleCode": "MFP2007-N",
+    "Pass": "66.67%",
+    "Present Percentage": 68.33
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CAMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "88.89%",
+    "Present Percentage": 39.43
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CAMA",
+    "ModuleCode": "GAV4018-N",
+    "Pass": "100.00%",
+    "Present Percentage": 45.28
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CAMA",
+    "ModuleCode": "GAV4028-N",
+    "Pass": "88.89%",
+    "Present Percentage": 43.36
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CANFSNG",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 83.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CANFSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 80.56
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CANFSNG",
+    "ModuleCode": "VIS3105-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CANSNG",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 38
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CANSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 31.15
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CANSNG",
+    "ModuleCode": "VIS3105-N",
+    "Pass": "100.00%",
+    "Present Percentage": 76.36
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "76.92%",
+    "Present Percentage": 34.67
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV0004-N",
+    "Pass": "64.29%",
+    "Present Percentage": 39.89
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV0005-N",
+    "Pass": "71.43%",
+    "Present Percentage": 37.83
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV1003-N",
+    "Pass": "92.38%",
+    "Present Percentage": 20.16
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV1006-N",
+    "Pass": "75.00%",
+    "Present Percentage": 38.59
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV1009-N",
+    "Pass": "83.50%",
+    "Present Percentage": 21.75
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV1015-N",
+    "Pass": "95.19%",
+    "Present Percentage": 12.58
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV2007-N",
+    "Pass": "84.06%",
+    "Present Percentage": 24.43
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV2025-N",
+    "Pass": "80.00%",
+    "Present Percentage": 19.8
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV2028-N",
+    "Pass": "85.71%",
+    "Present Percentage": 22.62
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV3003-N",
+    "Pass": "92.86%",
+    "Present Percentage": 34.45
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV3010-N",
+    "Pass": "97.62%",
+    "Present Percentage": 17.41
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CATSNG",
+    "ModuleCode": "GAV3021-N",
+    "Pass": "97.62%",
+    "Present Percentage": 31.6
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CBSAMS",
+    "ModuleCode": "CIS4012-N",
+    "Pass": "37.50%",
+    "Present Percentage": 64.66
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CBSAMS",
+    "ModuleCode": "CIS4019-N",
+    "Pass": "25.00%",
+    "Present Percentage": 70.45
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CBSAMS",
+    "ModuleCode": "CIS4020-N",
+    "Pass": "12.50%",
+    "Present Percentage": 46.88
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CBSMS",
+    "ModuleCode": "CIS4012-N",
+    "Pass": "66.67%",
+    "Present Percentage": 32.69
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CBSMS",
+    "ModuleCode": "CIS4019-N",
+    "Pass": "66.67%",
+    "Present Percentage": 63.64
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CBSMS",
+    "ModuleCode": "CIS4020-N",
+    "Pass": "75.00%",
+    "Present Percentage": 44.32
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHFSNG",
+    "ModuleCode": "GAV2003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 72.22
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHFSNG",
+    "ModuleCode": "GAV2008-N",
+    "Pass": "83.33%",
+    "Present Percentage": 51.43
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHFSNG",
+    "ModuleCode": "GAV2024-N",
+    "Pass": "100.00%",
+    "Present Percentage": 58.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHFSNG",
+    "ModuleCode": "VIS3108-N",
+    "Pass": "100.00%",
+    "Present Percentage": 43.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHFSNG",
+    "ModuleCode": "VIS3109-N",
+    "Pass": "100.00%",
+    "Present Percentage": 25.25
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "50.00%",
+    "Present Percentage": 50
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV0004-N",
+    "Pass": "33.33%",
+    "Present Percentage": 33.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV0005-N",
+    "Pass": "50.00%",
+    "Present Percentage": 33.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV1009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 27.67
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV1013-N",
+    "Pass": "82.35%",
+    "Present Percentage": 31.09
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV1015-N",
+    "Pass": "94.12%",
+    "Present Percentage": 29.56
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV2003-N",
+    "Pass": "83.33%",
+    "Present Percentage": 66.67
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV2008-N",
+    "Pass": "94.12%",
+    "Present Percentage": 50
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "GAV2024-N",
+    "Pass": "77.78%",
+    "Present Percentage": 45.42
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "VIS3108-N",
+    "Pass": "100.00%",
+    "Present Percentage": 42.39
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CCHSNG",
+    "ModuleCode": "VIS3109-N",
+    "Pass": "100.00%",
+    "Present Percentage": 30.66
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGNBA",
+    "ModuleCode": "CAM0001-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGNBA",
+    "ModuleCode": "CAM1030-N",
+    "Pass": "82.35%",
+    "Present Percentage": 60.63
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGNBA",
+    "ModuleCode": "CAM1031-N",
+    "Pass": "88.24%",
+    "Present Percentage": 79.82
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGNBA",
+    "ModuleCode": "GAV0004-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGNBA",
+    "ModuleCode": "GAV0005-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGNBA",
+    "ModuleCode": "GAV1003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGNBA",
+    "ModuleCode": "GAV1009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGNBA",
+    "ModuleCode": "GAV1015-N",
+    "Pass": "94.44%",
+    "Present Percentage": 38.54
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "CIS1018-N",
+    "Pass": "85.71%",
+    "Present Percentage": 81.93
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "COM3047-N",
+    "Pass": "80.00%",
+    "Present Percentage": 47.86
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "COM3050-N",
+    "Pass": "80.00%",
+    "Present Percentage": 59.26
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "COM4083-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "COM4088-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "COM4090-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "GAV1004-N",
+    "Pass": "85.71%",
+    "Present Percentage": 80.36
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "GAV1030-N",
+    "Pass": "85.71%",
+    "Present Percentage": 76.4
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "GAV2004-N",
+    "Pass": "76.47%",
+    "Present Percentage": 54.57
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "GAV2005-N",
+    "Pass": "81.25%",
+    "Present Percentage": 49.48
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "GAV2016-N",
+    "Pass": "70.59%",
+    "Present Percentage": 57.88
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGPPRD",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "80.00%",
+    "Present Percentage": 41.6
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGSSNG",
+    "ModuleCode": "CAM1030-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGSSNG",
+    "ModuleCode": "DES2187-N",
+    "Pass": "89.29%",
+    "Present Percentage": 48.74
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGSSNG",
+    "ModuleCode": "DES2188-N",
+    "Pass": "93.55%",
+    "Present Percentage": 42.46
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGSSNG",
+    "ModuleCode": "DES2193-N",
+    "Pass": "87.10%",
+    "Present Percentage": 43.3
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGSSNG",
+    "ModuleCode": "DES3095-N",
+    "Pass": "95.24%",
+    "Present Percentage": 79.87
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGSSNG",
+    "ModuleCode": "DES3096-N",
+    "Pass": "95.00%",
+    "Present Percentage": 75.22
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "CGSSNG",
+    "ModuleCode": "GAV1015-N",
+    "Pass": "0.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGVIMO",
+    "ModuleCode": "GAV1002-N",
+    "Pass": "90.91%",
+    "Present Percentage": 48.08
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGVIMO",
+    "ModuleCode": "GAV1004-N",
+    "Pass": "91.67%",
+    "Present Percentage": 49.1
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGVIMO",
+    "ModuleCode": "GAV1005-N",
+    "Pass": "50.00%",
+    "Present Percentage": 65.36
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGVIMO",
+    "ModuleCode": "GAV2011-N",
+    "Pass": "94.44%",
+    "Present Percentage": 24.34
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGVIMO",
+    "ModuleCode": "GAV2021-N",
+    "Pass": "77.78%",
+    "Present Percentage": 30.7
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CGVIMO",
+    "ModuleCode": "GAV2027-N",
+    "Pass": "72.22%",
+    "Present Percentage": 14.64
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "74.19%",
+    "Present Percentage": 24.53
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CMA",
+    "ModuleCode": "GAV4018-N",
+    "Pass": "90.32%",
+    "Present Percentage": 39.43
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CMA",
+    "ModuleCode": "GAV4028-N",
+    "Pass": "90.32%",
+    "Present Percentage": 28.63
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4008-N",
+    "Pass": "75.00%",
+    "Present Percentage": 49
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4010-N",
+    "Pass": "100.00%",
+    "Present Percentage": 48.15
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4012-N",
+    "Pass": "40.00%",
+    "Present Percentage": 35.39
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4019-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4020-N",
+    "Pass": "66.67%",
+    "Present Percentage": 52.9
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4022-N",
+    "Pass": "0.00%",
+    "Present Percentage": 61.11
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4027-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4037-N",
+    "Pass": "20.00%",
+    "Present Percentage": 77.5
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNMS",
+    "ModuleCode": "CIS4040-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4008-N",
+    "Pass": "100.00%",
+    "Present Percentage": 56.25
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 70
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4010-N",
+    "Pass": "100.00%",
+    "Present Percentage": 82.61
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4012-N",
+    "Pass": "75.00%",
+    "Present Percentage": 45.1
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4021-N",
+    "Pass": "100.00%",
+    "Present Percentage": 71.67
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4022-N",
+    "Pass": "100.00%",
+    "Present Percentage": 91.67
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4023-N",
+    "Pass": "100.00%",
+    "Present Percentage": 90.91
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4027-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CNPRD",
+    "ModuleCode": "CIS4037-N",
+    "Pass": "100.00%",
+    "Present Percentage": 93.06
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "CIS1010-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "CIS1013-N",
+    "Pass": "0.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "CIS2001-N",
+    "Pass": "0.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "CIS2015-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "CIS2016-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "CIS2017-N",
+    "Pass": "50.00%",
+    "Present Percentage": 50
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "CIS2021-N",
+    "Pass": "0.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "COM3037-N",
+    "Pass": "75.00%",
+    "Present Percentage": 55
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "COM3038-N",
+    "Pass": "100.00%",
+    "Present Percentage": 90
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "COM3040-N",
+    "Pass": "66.67%",
+    "Present Percentage": 48.39
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "COM3041-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "COM3042-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "COM3046-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "MUL3051-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTFSNG",
+    "ModuleCode": "MUL3055-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS0002-N",
+    "Pass": "66.67%",
+    "Present Percentage": 24.14
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS0003-N",
+    "Pass": "16.67%",
+    "Present Percentage": 39.29
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS0005-N",
+    "Pass": "60.00%",
+    "Present Percentage": 33.64
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS1005-N",
+    "Pass": "50.00%",
+    "Present Percentage": 37.04
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS1007-N",
+    "Pass": "100.00%",
+    "Present Percentage": 59.44
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS1009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 54.76
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS1010-N",
+    "Pass": "87.50%",
+    "Present Percentage": 62.5
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS1013-N",
+    "Pass": "83.33%",
+    "Present Percentage": 61.46
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS1018-N",
+    "Pass": "75.00%",
+    "Present Percentage": 31.61
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS1019-N",
+    "Pass": "85.71%",
+    "Present Percentage": 52.36
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS2001-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS2009-N",
+    "Pass": "50.00%",
+    "Present Percentage": 58.33
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS2015-N",
+    "Pass": "33.33%",
+    "Present Percentage": 50
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS2016-N",
+    "Pass": "80.00%",
+    "Present Percentage": 50.77
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS2017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 49.7
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS2019-N",
+    "Pass": "25.00%",
+    "Present Percentage": 54.46
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "CIS2021-N",
+    "Pass": "0.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "COM3036-N",
+    "Pass": "0.00%",
+    "Present Percentage": 81.08
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "COM3037-N",
+    "Pass": "77.78%",
+    "Present Percentage": 30.77
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "COM3038-N",
+    "Pass": "100.00%",
+    "Present Percentage": 47.71
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "COM3040-N",
+    "Pass": "91.67%",
+    "Present Percentage": 47.86
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "COM3041-N",
+    "Pass": "100.00%",
+    "Present Percentage": 56.47
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "COM3065-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "MUL3051-N",
+    "Pass": "87.50%",
+    "Present Percentage": 64.07
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CPTSNG",
+    "ModuleCode": "MUL3055-N",
+    "Pass": "77.78%",
+    "Present Percentage": 38.62
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "CIS1010-N",
+    "Pass": "100.00%",
+    "Present Percentage": 79.8
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "CIS1013-N",
+    "Pass": "100.00%",
+    "Present Percentage": 59.69
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "CIS1018-N",
+    "Pass": "100.00%",
+    "Present Percentage": 39.55
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "CIS2001-N",
+    "Pass": "60.00%",
+    "Present Percentage": 40
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "CIS2017-N",
+    "Pass": "80.00%",
+    "Present Percentage": 44.79
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "CIS2021-N",
+    "Pass": "80.00%",
+    "Present Percentage": 54.41
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "COM3036-N",
+    "Pass": "50.00%",
+    "Present Percentage": 42.34
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "COM3037-N",
+    "Pass": "50.00%",
+    "Present Percentage": 32.95
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "COM3038-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "COM3040-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CSCPRD",
+    "ModuleCode": "COM3041-N",
+    "Pass": "71.43%",
+    "Present Percentage": 50
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "CIS1010-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "CIS1013-N",
+    "Pass": "0.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "CIS2001-N",
+    "Pass": "100.00%",
+    "Present Percentage": 66.45
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "CIS2017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 45.56
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "CIS2021-N",
+    "Pass": "100.00%",
+    "Present Percentage": 70
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "COM3036-N",
+    "Pass": "85.71%",
+    "Present Percentage": 67.95
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "COM3037-N",
+    "Pass": "80.00%",
+    "Present Percentage": 38.09
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "COM3038-N",
+    "Pass": "100.00%",
+    "Present Percentage": 97.92
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "COM3040-N",
+    "Pass": "100.00%",
+    "Present Percentage": 84.09
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSFSNG",
+    "ModuleCode": "COM3041-N",
+    "Pass": "87.50%",
+    "Present Percentage": 52.86
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSMS",
+    "ModuleCode": "CIS4023-N",
+    "Pass": "100.00%",
+    "Present Percentage": 68.75
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSMS",
+    "ModuleCode": "CIS4037-N",
+    "Pass": "100.00%",
+    "Present Percentage": 76.04
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSMS",
+    "ModuleCode": "CIS4040-N",
+    "Pass": "100.00%",
+    "Present Percentage": 81.25
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSMS1",
+    "ModuleCode": "CIS4023-N",
+    "Pass": "0.00%",
+    "Present Percentage": 93.75
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSMS1",
+    "ModuleCode": "CIS4037-N",
+    "Pass": "0.00%",
+    "Present Percentage": 88.89
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSMS1",
+    "ModuleCode": "CIS4040-N",
+    "Pass": "0.00%",
+    "Present Percentage": 92.11
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNMS",
+    "ModuleCode": "CIS4012-N",
+    "Pass": "100.00%",
+    "Present Percentage": 43.59
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNMS",
+    "ModuleCode": "CIS4019-N",
+    "Pass": "100.00%",
+    "Present Percentage": 55
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNMS",
+    "ModuleCode": "CIS4020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 41.18
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNPRD",
+    "ModuleCode": "CIS4012-N",
+    "Pass": "66.67%",
+    "Present Percentage": 73.81
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNPRD",
+    "ModuleCode": "CIS4019-N",
+    "Pass": "66.67%",
+    "Present Percentage": 84.85
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNPRD",
+    "ModuleCode": "CIS4020-N",
+    "Pass": "66.67%",
+    "Present Percentage": 63.16
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNSNG",
+    "ModuleCode": "COM3064-N",
+    "Pass": "90.91%",
+    "Present Percentage": 67.36
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNSNG",
+    "ModuleCode": "COM3065-N",
+    "Pass": "81.82%",
+    "Present Percentage": 80.68
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSNSNG",
+    "ModuleCode": "COM3067-N",
+    "Pass": "100.00%",
+    "Present Percentage": 77.65
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS0002-N",
+    "Pass": "73.68%",
+    "Present Percentage": 33.83
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS0003-N",
+    "Pass": "38.10%",
+    "Present Percentage": 32.54
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS0005-N",
+    "Pass": "84.21%",
+    "Present Percentage": 35.37
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS1010-N",
+    "Pass": "78.57%",
+    "Present Percentage": 36.44
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS1013-N",
+    "Pass": "57.63%",
+    "Present Percentage": 40.55
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS1018-N",
+    "Pass": "62.71%",
+    "Present Percentage": 31.65
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS2001-N",
+    "Pass": "85.71%",
+    "Present Percentage": 51.08
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS2017-N",
+    "Pass": "94.29%",
+    "Present Percentage": 28.37
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "CIS2021-N",
+    "Pass": "80.56%",
+    "Present Percentage": 39.88
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "COM3036-N",
+    "Pass": "80.56%",
+    "Present Percentage": 47.57
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "COM3037-N",
+    "Pass": "79.59%",
+    "Present Percentage": 24.32
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "COM3038-N",
+    "Pass": "90.00%",
+    "Present Percentage": 53.91
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "COM3040-N",
+    "Pass": "100.00%",
+    "Present Percentage": 36.67
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CSSNG",
+    "ModuleCode": "COM3041-N",
+    "Pass": "79.49%",
+    "Present Percentage": 53.65
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CVEFSNG",
+    "ModuleCode": "VIS3108-N",
+    "Pass": "100.00%",
+    "Present Percentage": 88.46
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CVEFSNG",
+    "ModuleCode": "VIS3109-N",
+    "Pass": "100.00%",
+    "Present Percentage": 67.65
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CVESNG",
+    "ModuleCode": "VIS3108-N",
+    "Pass": "90.48%",
+    "Present Percentage": 43.84
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "CVESNG",
+    "ModuleCode": "VIS3109-N",
+    "Pass": "100.00%",
+    "Present Percentage": 28.03
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS0002-N",
+    "Pass": "62.50%",
+    "Present Percentage": 47.32
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS0003-N",
+    "Pass": "62.50%",
+    "Present Percentage": 45.37
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS0005-N",
+    "Pass": "62.50%",
+    "Present Percentage": 53.74
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS1001-N",
+    "Pass": "50.00%",
+    "Present Percentage": 42.58
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS1007-N",
+    "Pass": "90.63%",
+    "Present Percentage": 48.67
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS1018-N",
+    "Pass": "64.52%",
+    "Present Percentage": 37.39
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS2014-N",
+    "Pass": "81.58%",
+    "Present Percentage": 56
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS2018-N",
+    "Pass": "86.84%",
+    "Present Percentage": 42.03
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "CYBBS",
+    "ModuleCode": "CIS2026-N",
+    "Pass": "84.21%",
+    "Present Percentage": 31.45
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "DCMPRD",
+    "ModuleCode": "CAM4036-N",
+    "Pass": "80.00%",
+    "Present Percentage": 64.44
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "DCMPRD",
+    "ModuleCode": "CAM4037-N",
+    "Pass": "85.71%",
+    "Present Percentage": 75
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "DCMPRD",
+    "ModuleCode": "CAM4042-N",
+    "Pass": "85.71%",
+    "Present Percentage": 58.33
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DGMBS",
+    "ModuleCode": "MUL3063-N",
+    "Pass": "100.00%",
+    "Present Percentage": 90.91
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DGMBS",
+    "ModuleCode": "MUL3064-N",
+    "Pass": "100.00%",
+    "Present Percentage": 80.95
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DGMBS",
+    "ModuleCode": "VIS3103-N",
+    "Pass": "100.00%",
+    "Present Percentage": 85.48
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "DNCSNG",
+    "ModuleCode": "PER3012-N",
+    "Pass": "100.00%",
+    "Present Percentage": 67.86
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "DNCSNG",
+    "ModuleCode": "PER3018-N",
+    "Pass": "75.00%",
+    "Present Percentage": 81.82
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "DNCSNG",
+    "ModuleCode": "PER3025-N",
+    "Pass": "100.00%",
+    "Present Percentage": 68.42
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DTSAMS",
+    "ModuleCode": "CIS4008-N",
+    "Pass": "75.00%",
+    "Present Percentage": 59.26
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DTSAMS",
+    "ModuleCode": "CIS4009-N",
+    "Pass": "75.00%",
+    "Present Percentage": 70
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DTSAMS",
+    "ModuleCode": "CIS4010-N",
+    "Pass": "75.00%",
+    "Present Percentage": 63.89
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DTSMS",
+    "ModuleCode": "CIS4008-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DTSMS",
+    "ModuleCode": "CIS4009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "DTSMS",
+    "ModuleCode": "CIS4010-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "CAM1018-N",
+    "Pass": "92.86%",
+    "Present Percentage": 73.21
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "CAM1020-N",
+    "Pass": "92.86%",
+    "Present Percentage": 88.96
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "CAM1022-N",
+    "Pass": "92.86%",
+    "Present Percentage": 78.1
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "FAE2014-N",
+    "Pass": "69.23%",
+    "Present Percentage": 62.82
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "FAE2016-N",
+    "Pass": "80.77%",
+    "Present Percentage": 67.47
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "FAE3010-N",
+    "Pass": "86.67%",
+    "Present Percentage": 70.95
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "FAE3013-N",
+    "Pass": "80.00%",
+    "Present Percentage": 70.51
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "66.67%",
+    "Present Percentage": 49.02
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "GAV0004-N",
+    "Pass": "66.67%",
+    "Present Percentage": 66.67
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FASNG",
+    "ModuleCode": "GAV0005-N",
+    "Pass": "66.67%",
+    "Present Percentage": 83.33
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FMCUBA",
+    "ModuleCode": "MFP2017-N",
+    "Pass": "58.33%",
+    "Present Percentage": 70.83
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FMCUBA",
+    "ModuleCode": "MFP2019-N",
+    "Pass": "100.00%",
+    "Present Percentage": 81.25
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FMCUBA",
+    "ModuleCode": "MFP2024-N",
+    "Pass": "25.00%",
+    "Present Percentage": 48.61
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FMCUBA",
+    "ModuleCode": "MFP2026-N",
+    "Pass": "87.50%",
+    "Present Percentage": 75
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FOMA",
+    "ModuleCode": "CAM4017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FOMA",
+    "ModuleCode": "CAM4057-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "CAM0001-N",
+    "Pass": "87.50%",
+    "Present Percentage": 43.45
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "CAM0002-N",
+    "Pass": "100.00%",
+    "Present Percentage": 67.97
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "CAM1009-N",
+    "Pass": "96.55%",
+    "Present Percentage": 81.38
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "CAM1016-N",
+    "Pass": "100.00%",
+    "Present Percentage": 46.98
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "CAM1030-N",
+    "Pass": "93.10%",
+    "Present Percentage": 74.76
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "87.50%",
+    "Present Percentage": 24.03
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "MFP2005-N",
+    "Pass": "91.84%",
+    "Present Percentage": 42.22
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "MFP2006-N",
+    "Pass": "92.00%",
+    "Present Percentage": 27.11
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "MFP2008-N",
+    "Pass": "93.88%",
+    "Present Percentage": 31.64
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FTPBA",
+    "ModuleCode": "MFP2019-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FUAPRD",
+    "ModuleCode": "CAM4016-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FUAPRD",
+    "ModuleCode": "CAM4017-N",
+    "Pass": "90.91%",
+    "Present Percentage": 31.36
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FUAPRD",
+    "ModuleCode": "CAM4057-N",
+    "Pass": "77.78%",
+    "Present Percentage": 9.85
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "FUAPRD",
+    "ModuleCode": "DES4032-N",
+    "Pass": "76.92%",
+    "Present Percentage": 72.76
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GDEPRD",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "87.50%",
+    "Present Percentage": 42.79
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GDEPRD",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 39.36
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GDEPRD",
+    "ModuleCode": "VIS3110-N",
+    "Pass": "93.75%",
+    "Present Percentage": 33.28
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GDEPRD",
+    "ModuleCode": "VIS4059-N",
+    "Pass": "100.00%",
+    "Present Percentage": 83.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GDEPRD",
+    "ModuleCode": "VIS4060-N",
+    "Pass": "83.33%",
+    "Present Percentage": 70.24
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GDEPRD",
+    "ModuleCode": "VIS4073-N",
+    "Pass": "66.67%",
+    "Present Percentage": 93.94
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMA",
+    "ModuleCode": "GAV4003-N",
+    "Pass": "76.00%",
+    "Present Percentage": 32.59
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "88.00%",
+    "Present Percentage": 16.21
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMA",
+    "ModuleCode": "GAV4020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 35.58
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMFSNG",
+    "ModuleCode": "GAV1002-N",
+    "Pass": "0.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMFSNG",
+    "ModuleCode": "GAV2011-N",
+    "Pass": "80.00%",
+    "Present Percentage": 57.89
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMFSNG",
+    "ModuleCode": "GAV2021-N",
+    "Pass": "80.00%",
+    "Present Percentage": 49
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMFSNG",
+    "ModuleCode": "GAV2027-N",
+    "Pass": "80.00%",
+    "Present Percentage": 38.18
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMFSNG",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 33.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMFSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 43.9
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMFSNG",
+    "ModuleCode": "VIS3110-N",
+    "Pass": "88.89%",
+    "Present Percentage": 23.61
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV0001-N",
+    "Pass": "71.43%",
+    "Present Percentage": 36.72
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV0002-N",
+    "Pass": "69.23%",
+    "Present Percentage": 48.25
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "61.54%",
+    "Present Percentage": 23.27
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV1002-N",
+    "Pass": "91.53%",
+    "Present Percentage": 23.22
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV1004-N",
+    "Pass": "82.46%",
+    "Present Percentage": 35.72
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV1005-N",
+    "Pass": "0.00%",
+    "Present Percentage": 59.45
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV2011-N",
+    "Pass": "88.89%",
+    "Present Percentage": 19.54
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV2021-N",
+    "Pass": "83.08%",
+    "Present Percentage": 20.68
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV2027-N",
+    "Pass": "76.19%",
+    "Present Percentage": 11.19
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "91.67%",
+    "Present Percentage": 19.17
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "93.75%",
+    "Present Percentage": 29.53
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GMSNG",
+    "ModuleCode": "VIS3110-N",
+    "Pass": "81.25%",
+    "Present Percentage": 17.02
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GPDMA",
+    "ModuleCode": "GAV4003-N",
+    "Pass": "66.67%",
+    "Present Percentage": 65.15
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GPDMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "66.67%",
+    "Present Percentage": 62.22
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GPDMA",
+    "ModuleCode": "GAV4020-N",
+    "Pass": "66.67%",
+    "Present Percentage": 63.89
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GPDPRD",
+    "ModuleCode": "GAV4003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 66.67
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GPDPRD",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 36.84
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "GPDPRD",
+    "ModuleCode": "GAV4020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 60.78
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "HIFBS",
+    "ModuleCode": "CIS2016-N",
+    "Pass": "54.55%",
+    "Present Percentage": 69.16
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "HIFBS",
+    "ModuleCode": "CIS2017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 58.44
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV0001-N",
+    "Pass": "66.67%",
+    "Present Percentage": 69.84
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV0002-N",
+    "Pass": "100.00%",
+    "Present Percentage": 68.75
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 68.42
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV1001-N",
+    "Pass": "70.00%",
+    "Present Percentage": 68.18
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV1002-N",
+    "Pass": "90.00%",
+    "Present Percentage": 54.58
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV1003-N",
+    "Pass": "90.00%",
+    "Present Percentage": 39.96
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV2002-N",
+    "Pass": "71.43%",
+    "Present Percentage": 55.9
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV2015-N",
+    "Pass": "100.00%",
+    "Present Percentage": 58.73
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV2021-N",
+    "Pass": "100.00%",
+    "Present Percentage": 47.19
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "75.00%",
+    "Present Percentage": 40.74
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV3012-N",
+    "Pass": "83.33%",
+    "Present Percentage": 78.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "IGDSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "83.33%",
+    "Present Percentage": 36.11
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS0002-N",
+    "Pass": "71.43%",
+    "Present Percentage": 39.93
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS0003-N",
+    "Pass": "42.86%",
+    "Present Percentage": 51.56
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS0005-N",
+    "Pass": "71.43%",
+    "Present Percentage": 33.33
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS1005-N",
+    "Pass": "92.31%",
+    "Present Percentage": 68.16
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS1018-N",
+    "Pass": "84.62%",
+    "Present Percentage": 47.44
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS1019-N",
+    "Pass": "84.62%",
+    "Present Percentage": 65.96
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS2015-N",
+    "Pass": "90.00%",
+    "Present Percentage": 70.91
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS2016-N",
+    "Pass": "80.00%",
+    "Present Percentage": 57.11
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "CIS2017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 47.83
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "COM3038-N",
+    "Pass": "95.00%",
+    "Present Percentage": 46.39
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "COM3040-N",
+    "Pass": "95.00%",
+    "Present Percentage": 41.39
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "INFSNG",
+    "ModuleCode": "MUL3051-N",
+    "Pass": "95.00%",
+    "Present Percentage": 56.9
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "IPMMS",
+    "ModuleCode": "CIS4021-N",
+    "Pass": "50.00%",
+    "Present Percentage": 80
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "IPMMS",
+    "ModuleCode": "CIS4022-N",
+    "Pass": "50.00%",
+    "Present Percentage": 87.5
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "IPMMS",
+    "ModuleCode": "CIS4023-N",
+    "Pass": "100.00%",
+    "Present Percentage": 66.67
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "IPMMS",
+    "ModuleCode": "COM3038-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "IPMPRD",
+    "ModuleCode": "CIS4021-N",
+    "Pass": "85.71%",
+    "Present Percentage": 78.13
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "IPMPRD",
+    "ModuleCode": "CIS4022-N",
+    "Pass": "87.50%",
+    "Present Percentage": 80.56
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "IPMPRD",
+    "ModuleCode": "CIS4023-N",
+    "Pass": "62.50%",
+    "Present Percentage": 70.37
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "IPMPRD",
+    "ModuleCode": "COM4077-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "CAM1008-N",
+    "Pass": "76.47%",
+    "Present Percentage": 62.59
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "CAM1011-N",
+    "Pass": "87.50%",
+    "Present Percentage": 97.92
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "CAM1012-N",
+    "Pass": "94.12%",
+    "Present Percentage": 80.3
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "MED3007-N",
+    "Pass": "75.00%",
+    "Present Percentage": 61.41
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "MED3030-N",
+    "Pass": "100.00%",
+    "Present Percentage": 65.94
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "MED3047-N",
+    "Pass": "100.00%",
+    "Present Percentage": 76.57
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "MED3055-N",
+    "Pass": "87.50%",
+    "Present Percentage": 76.04
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "MFP2024-N",
+    "Pass": "83.33%",
+    "Present Percentage": 53.73
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "MFP2026-N",
+    "Pass": "100.00%",
+    "Present Percentage": 83.97
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "MFP2027-N",
+    "Pass": "91.67%",
+    "Present Percentage": 90.38
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "JOUSNG",
+    "ModuleCode": "MPR3002-N",
+    "Pass": "100.00%",
+    "Present Percentage": 75
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MDCBA",
+    "ModuleCode": "CAM1030-N",
+    "Pass": "90.91%",
+    "Present Percentage": 79.09
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MDCBA",
+    "ModuleCode": "CAM1035-N",
+    "Pass": "90.91%",
+    "Present Percentage": 86.36
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MDCBA",
+    "ModuleCode": "CAM1036-N",
+    "Pass": "90.91%",
+    "Present Percentage": 86.55
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MJMSNG",
+    "ModuleCode": "MED3007-N",
+    "Pass": "100.00%",
+    "Present Percentage": 81.67
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MJMSNG",
+    "ModuleCode": "MED3030-N",
+    "Pass": "100.00%",
+    "Present Percentage": 82.5
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MJMSNG",
+    "ModuleCode": "MED3047-N",
+    "Pass": "100.00%",
+    "Present Percentage": 86.46
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MJMSNG",
+    "ModuleCode": "MPR3002-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MJSSNG",
+    "ModuleCode": "MED3030-N",
+    "Pass": "100.00%",
+    "Present Percentage": 67.42
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MJSSNG",
+    "ModuleCode": "MED3047-N",
+    "Pass": "100.00%",
+    "Present Percentage": 66.4
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MJSSNG",
+    "ModuleCode": "MED3055-N",
+    "Pass": "90.91%",
+    "Present Percentage": 79.17
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MJSSNG",
+    "ModuleCode": "MPR3002-N",
+    "Pass": "100.00%",
+    "Present Percentage": 53.14
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MMJSNG",
+    "ModuleCode": "MED3030-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MMJSNG",
+    "ModuleCode": "MED3047-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MMJSNG",
+    "ModuleCode": "MED3055-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MPRPRD",
+    "ModuleCode": "CAM4037-N",
+    "Pass": "50.00%",
+    "Present Percentage": 64.25
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MPRPRD",
+    "ModuleCode": "CAM4039-N",
+    "Pass": "75.00%",
+    "Present Percentage": 68.6
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MPRPRD",
+    "ModuleCode": "CAM4040-N",
+    "Pass": "87.50%",
+    "Present Percentage": 61.61
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "MUTBS",
+    "ModuleCode": "CAM1000-N",
+    "Pass": "58.82%",
+    "Present Percentage": 64.93
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "MUTBS",
+    "ModuleCode": "CAM1001-N",
+    "Pass": "64.71%",
+    "Present Percentage": 73.53
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "MUTBS",
+    "ModuleCode": "CAM1002-N",
+    "Pass": "76.47%",
+    "Present Percentage": 72.79
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MZSNG",
+    "ModuleCode": "MED3007-N",
+    "Pass": "100.00%",
+    "Present Percentage": 82.69
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MZSNG",
+    "ModuleCode": "MED3020-N",
+    "Pass": "78.57%",
+    "Present Percentage": 74.15
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MZSNG",
+    "ModuleCode": "MED3036-N",
+    "Pass": "93.33%",
+    "Present Percentage": 58.93
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "MZSNG",
+    "ModuleCode": "MED3047-N",
+    "Pass": "100.00%",
+    "Present Percentage": 64.29
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "OABA",
+    "ModuleCode": "CAM2039-N",
+    "Pass": "100.00%",
+    "Present Percentage": 91.67
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "OABA",
+    "ModuleCode": "CAM2040-N",
+    "Pass": "100.00%",
+    "Present Percentage": 96.25
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "OABA",
+    "ModuleCode": "MFP2001-N",
+    "Pass": "100.00%",
+    "Present Percentage": 91.6
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PFTMA",
+    "ModuleCode": "CAM4061-N",
+    "Pass": "100.00%",
+    "Present Percentage": 80.21
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PFTMA",
+    "ModuleCode": "CAM4062-N",
+    "Pass": "100.00%",
+    "Present Percentage": 85.42
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PFTMA",
+    "ModuleCode": "CAM4063-N",
+    "Pass": "100.00%",
+    "Present Percentage": 87.76
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PFTMAE",
+    "ModuleCode": "CAM4061-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PFTMAE",
+    "ModuleCode": "CAM4062-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PFTMAE",
+    "ModuleCode": "CAM4063-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PLMSNG",
+    "ModuleCode": "PER3008-N",
+    "Pass": "95.00%",
+    "Present Percentage": 77.81
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PLMSNG",
+    "ModuleCode": "PER3018-N",
+    "Pass": "95.00%",
+    "Present Percentage": 79.09
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "PLMSNG",
+    "ModuleCode": "PER3028-N",
+    "Pass": "100.00%",
+    "Present Percentage": 73.33
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "SPJBA",
+    "ModuleCode": "CAM1008-N",
+    "Pass": "90.00%",
+    "Present Percentage": 91.67
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "SPJBA",
+    "ModuleCode": "CAM1011-N",
+    "Pass": "100.00%",
+    "Present Percentage": 96.67
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "SPJBA",
+    "ModuleCode": "CAM1027-N",
+    "Pass": "100.00%",
+    "Present Percentage": 90.91
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "SPJBA",
+    "ModuleCode": "MFP2026-N",
+    "Pass": "87.50%",
+    "Present Percentage": 84.62
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "SPJBA",
+    "ModuleCode": "MFP2027-N",
+    "Pass": "100.00%",
+    "Present Percentage": 92.71
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "SPJBA",
+    "ModuleCode": "MFP2028-N",
+    "Pass": "100.00%",
+    "Present Percentage": 81.52
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDABA",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDABA",
+    "ModuleCode": "GAV0004-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDABA",
+    "ModuleCode": "GAV0005-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDABA",
+    "ModuleCode": "GAV1009-N",
+    "Pass": "95.24%",
+    "Present Percentage": 33.43
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDABA",
+    "ModuleCode": "GAV1013-N",
+    "Pass": "95.24%",
+    "Present Percentage": 38.82
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDABA",
+    "ModuleCode": "GAV1033-N",
+    "Pass": "85.71%",
+    "Present Percentage": 56.08
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDGMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "83.87%",
+    "Present Percentage": 14.73
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDGMA",
+    "ModuleCode": "GAV4037-N",
+    "Pass": "70.97%",
+    "Present Percentage": 34.86
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TDGMA",
+    "ModuleCode": "GAV4038-N",
+    "Pass": "80.00%",
+    "Present Percentage": 30.93
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "TFPSNG",
+    "ModuleCode": "MED3040-N",
+    "Pass": "93.02%",
+    "Present Percentage": 27.96
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "TFPSNG",
+    "ModuleCode": "MED3050-N",
+    "Pass": "97.67%",
+    "Present Percentage": 50.13
+  },
+  {
+    "Department": "CAM",
+    "CourseCode": "TFPSNG",
+    "ModuleCode": "MED3051-N",
+    "Pass": "97.67%",
+    "Present Percentage": 48.43
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV0001-N",
+    "Pass": "100.00%",
+    "Present Percentage": 60.53
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV0002-N",
+    "Pass": "100.00%",
+    "Present Percentage": 60.29
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "75.00%",
+    "Present Percentage": 54.17
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV1001-N",
+    "Pass": "75.00%",
+    "Present Percentage": 67.11
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV1002-N",
+    "Pass": "87.50%",
+    "Present Percentage": 36.18
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV1004-N",
+    "Pass": "76.47%",
+    "Present Percentage": 35.57
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV2005-N",
+    "Pass": "66.67%",
+    "Present Percentage": 39.47
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV2011-N",
+    "Pass": "100.00%",
+    "Present Percentage": 57.89
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV2027-N",
+    "Pass": "83.33%",
+    "Present Percentage": 39.39
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "83.33%",
+    "Present Percentage": 30.23
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "83.33%",
+    "Present Percentage": 30.7
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TGDBS",
+    "ModuleCode": "VIS3126-N",
+    "Pass": "83.33%",
+    "Present Percentage": 53.79
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TVEMS",
+    "ModuleCode": "GAV4002-N",
+    "Pass": "100.00%",
+    "Present Percentage": 97.83
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TVEMS",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 66.67
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "TVEMS",
+    "ModuleCode": "GAV4024-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "CIS0005-N",
+    "Pass": "66.67%",
+    "Present Percentage": 36.89
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "CIS1018-N",
+    "Pass": "80.00%",
+    "Present Percentage": 35.05
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "COM3042-N",
+    "Pass": "93.33%",
+    "Present Percentage": 63.54
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "COM3046-N",
+    "Pass": "100.00%",
+    "Present Percentage": 73.15
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "COM3047-N",
+    "Pass": "76.19%",
+    "Present Percentage": 49.92
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "COM3050-N",
+    "Pass": "57.14%",
+    "Present Percentage": 57.76
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "GAV0002-N",
+    "Pass": "55.56%",
+    "Present Percentage": 45.14
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "55.56%",
+    "Present Percentage": 28.41
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "GAV1004-N",
+    "Pass": "81.82%",
+    "Present Percentage": 35.98
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "GAV1030-N",
+    "Pass": "88.24%",
+    "Present Percentage": 44.53
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "GAV2004-N",
+    "Pass": "72.73%",
+    "Present Percentage": 34.34
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "GAV2005-N",
+    "Pass": "77.14%",
+    "Present Percentage": 27.53
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "GAV2016-N",
+    "Pass": "66.67%",
+    "Present Percentage": 49.17
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "UPSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "97.30%",
+    "Present Percentage": 27.54
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEAMA",
+    "ModuleCode": "GAV4017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 81.58
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEAMA",
+    "ModuleCode": "GAV4033-N",
+    "Pass": "100.00%",
+    "Present Percentage": 81.58
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEAMA",
+    "ModuleCode": "GAV4034-N",
+    "Pass": "100.00%",
+    "Present Percentage": 86.96
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEIMO",
+    "ModuleCode": "GAV1007-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEIMO",
+    "ModuleCode": "GAV1009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEIMO",
+    "ModuleCode": "GAV1012-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEIMO",
+    "ModuleCode": "GAV2008-N",
+    "Pass": "100.00%",
+    "Present Percentage": 84.09
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEIMO",
+    "ModuleCode": "GAV2010-N",
+    "Pass": "100.00%",
+    "Present Percentage": 84.78
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIEIMO",
+    "ModuleCode": "GAV2038-N",
+    "Pass": "100.00%",
+    "Present Percentage": 97.92
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 65
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV0004-N",
+    "Pass": "100.00%",
+    "Present Percentage": 54.76
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV0005-N",
+    "Pass": "66.67%",
+    "Present Percentage": 64.29
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV1007-N",
+    "Pass": "66.67%",
+    "Present Percentage": 58.33
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV1009-N",
+    "Pass": "83.33%",
+    "Present Percentage": 34.62
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV1012-N",
+    "Pass": "63.64%",
+    "Present Percentage": 64.02
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV2008-N",
+    "Pass": "54.55%",
+    "Present Percentage": 69.93
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV2010-N",
+    "Pass": "90.91%",
+    "Present Percentage": 78.26
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "VIWBA",
+    "ModuleCode": "GAV2038-N",
+    "Pass": "90.91%",
+    "Present Percentage": 81.82
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "CIS1009-N",
+    "Pass": "100.00%",
+    "Present Percentage": 69.17
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "CIS1018-N",
+    "Pass": "50.00%",
+    "Present Percentage": 69.64
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "CIS1019-N",
+    "Pass": "100.00%",
+    "Present Percentage": 59.09
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "CIS2009-N",
+    "Pass": "88.89%",
+    "Present Percentage": 73.1
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "CIS2017-N",
+    "Pass": "88.89%",
+    "Present Percentage": 68.82
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "CIS2019-N",
+    "Pass": "88.89%",
+    "Present Percentage": 64.51
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "MUL3059-N",
+    "Pass": "100.00%",
+    "Present Percentage": 78.4
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "MUL3060-N",
+    "Pass": "100.00%",
+    "Present Percentage": 77.78
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WBPBS",
+    "ModuleCode": "MUL3061-N",
+    "Pass": "100.00%",
+    "Present Percentage": 70.99
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WMMSNG",
+    "ModuleCode": "MUL3051-N",
+    "Pass": "100.00%",
+    "Present Percentage": 62.07
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WMMSNG",
+    "ModuleCode": "MUL3055-N",
+    "Pass": "50.00%",
+    "Present Percentage": 70
+  },
+  {
+    "Department": "CSIS",
+    "CourseCode": "WMMSNG",
+    "ModuleCode": "VIS3103-N",
+    "Pass": "100.00%",
+    "Present Percentage": 68.06
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "GAV1003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 50
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "GAV1006-N",
+    "Pass": "100.00%",
+    "Present Percentage": 75
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "GAV1015-N",
+    "Pass": "50.00%",
+    "Present Percentage": 62.5
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "GAV2017-N",
+    "Pass": "100.00%",
+    "Present Percentage": 80.56
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "GAV2025-N",
+    "Pass": "83.33%",
+    "Present Percentage": 50
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "GAV2029-N",
+    "Pass": "100.00%",
+    "Present Percentage": 68.12
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "85.71%",
+    "Present Percentage": 45.71
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "100.00%",
+    "Present Percentage": 39.05
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDFSNG",
+    "ModuleCode": "VIS3104-N",
+    "Pass": "85.71%",
+    "Present Percentage": 56.55
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV0003-N",
+    "Pass": "81.25%",
+    "Present Percentage": 29.69
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV0004-N",
+    "Pass": "87.50%",
+    "Present Percentage": 38.43
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV0005-N",
+    "Pass": "68.75%",
+    "Present Percentage": 32
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV1003-N",
+    "Pass": "85.54%",
+    "Present Percentage": 22.27
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV1006-N",
+    "Pass": "87.95%",
+    "Present Percentage": 26.41
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV1015-N",
+    "Pass": "90.12%",
+    "Present Percentage": 19.2
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV2003-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV2008-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV2017-N",
+    "Pass": "93.10%",
+    "Present Percentage": 34.46
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV2024-N",
+    "Pass": "100.00%",
+    "Present Percentage": 100
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV2025-N",
+    "Pass": "83.05%",
+    "Present Percentage": 31.43
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV2029-N",
+    "Pass": "93.10%",
+    "Present Percentage": 21.7
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV3009-N",
+    "Pass": "91.23%",
+    "Present Percentage": 14.66
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "GAV3020-N",
+    "Pass": "96.43%",
+    "Present Percentage": 27.73
+  },
+  {
+    "Department": "GAV",
+    "CourseCode": "ZDSNG",
+    "ModuleCode": "VIS3104-N",
+    "Pass": "87.93%",
+    "Present Percentage": 22.59
+  }
+]
