@@ -1,0 +1,2742 @@
+[
+ {
+   "id": "CSIS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSAMS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4012-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4012-N.Pass %",
+   "value": "37.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4012-N.Present %",
+   "value": "64.66",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4019-N.Pass %",
+   "value": "25.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4019-N.Present %",
+   "value": "70.45",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4020-N.Pass %",
+   "value": "12.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CBSAMS.CIS4020-N.Present %",
+   "value": "46.88",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSMS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4012-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4012-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4012-N.Present %",
+   "value": "32.69",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4019-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4019-N.Present %",
+   "value": "63.64",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4020-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CBSMS.CIS4020-N.Present %",
+   "value": "44.32",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4008-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4008-N.Present %",
+   "value": "49",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4010-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4010-N.Present %",
+   "value": "48.15",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4012-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4012-N.Pass %",
+   "value": "40.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4012-N.Present %",
+   "value": "35.39",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4019-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4019-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4020-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4020-N.Present %",
+   "value": "52.9",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4022-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4022-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4022-N.Present %",
+   "value": "61.11",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4027-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4027-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4027-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4037-N.Pass %",
+   "value": "20.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4037-N.Present %",
+   "value": "77.5",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNMS.CIS4040-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNMS.CIS4040-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4008-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4008-N.Present %",
+   "value": "56.25",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4009-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4009-N.Present %",
+   "value": "70",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4010-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4010-N.Present %",
+   "value": "82.61",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4012-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4012-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4012-N.Present %",
+   "value": "45.1",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4020-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4020-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4021-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4021-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4021-N.Present %",
+   "value": "71.67",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4022-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4022-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4022-N.Present %",
+   "value": "91.67",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4023-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4023-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4023-N.Present %",
+   "value": "90.91",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4027-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4027-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4027-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4037-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CNPRD.CIS4037-N.Present %",
+   "value": "93.06",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS1010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS1010-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS1010-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS1013-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS1013-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS1013-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2001-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2001-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2015-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2015-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2015-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2016-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2016-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2016-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2017-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2017-N.Present %",
+   "value": "50",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2021-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2021-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.CIS2021-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3037-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3037-N.Present %",
+   "value": "55",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3038-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3038-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3038-N.Present %",
+   "value": "90",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3040-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3040-N.Present %",
+   "value": "48.39",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3041-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3041-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3041-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3042-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3042-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3042-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3046-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3046-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.COM3046-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.GAV3020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.GAV3020-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.GAV3020-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.MUL3051-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.MUL3051-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.MUL3051-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.MUL3055-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTFSNG.MUL3055-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTFSNG.MUL3055-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0002-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0002-N.Present %",
+   "value": "24.14",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0003-N.Pass %",
+   "value": "16.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0003-N.Present %",
+   "value": "39.29",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0005-N.Pass %",
+   "value": "60.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS0005-N.Present %",
+   "value": "33.64",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1005-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1005-N.Present %",
+   "value": "37.04",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1007-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1007-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1007-N.Present %",
+   "value": "59.44",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1009-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1009-N.Present %",
+   "value": "54.76",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1010-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1010-N.Present %",
+   "value": "62.5",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1013-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1013-N.Pass %",
+   "value": "83.33%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1013-N.Present %",
+   "value": "61.46",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1018-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1018-N.Present %",
+   "value": "31.61",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1019-N.Pass %",
+   "value": "85.71%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS1019-N.Present %",
+   "value": "52.36",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2001-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2001-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2009-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2009-N.Present %",
+   "value": "58.33",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2015-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2015-N.Pass %",
+   "value": "33.33%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2015-N.Present %",
+   "value": "50",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2016-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2016-N.Pass %",
+   "value": "80.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2016-N.Present %",
+   "value": "50.77",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2017-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2017-N.Present %",
+   "value": "49.7",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2019-N.Pass %",
+   "value": "25.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2019-N.Present %",
+   "value": "54.46",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2021-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2021-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.CIS2021-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3036-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3036-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3036-N.Present %",
+   "value": "81.08",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3037-N.Pass %",
+   "value": "77.78%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3037-N.Present %",
+   "value": "30.77",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3038-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3038-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3038-N.Present %",
+   "value": "47.71",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3040-N.Pass %",
+   "value": "91.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3040-N.Present %",
+   "value": "47.86",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3041-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3041-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3041-N.Present %",
+   "value": "56.47",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3065-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3065-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.COM3065-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.MUL3051-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.MUL3051-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.MUL3051-N.Present %",
+   "value": "64.07",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.MUL3055-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CPTSNG.MUL3055-N.Pass %",
+   "value": "77.78%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CPTSNG.MUL3055-N.Present %",
+   "value": "38.62",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS1010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS1010-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS1010-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS1013-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS1013-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS1013-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2001-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2001-N.Present %",
+   "value": "66.45",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2017-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2017-N.Present %",
+   "value": "45.56",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2021-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2021-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.CIS2021-N.Present %",
+   "value": "70",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3036-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3036-N.Pass %",
+   "value": "85.71%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3036-N.Present %",
+   "value": "67.95",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3037-N.Pass %",
+   "value": "80.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3037-N.Present %",
+   "value": "38.09",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3038-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3038-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3038-N.Present %",
+   "value": "97.92",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3040-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3040-N.Present %",
+   "value": "84.09",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3041-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3041-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSFSNG.COM3041-N.Present %",
+   "value": "52.86",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS.CIS4023-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS.CIS4023-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSMS.CIS4023-N.Present %",
+   "value": "68.75",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS.CIS4037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS.CIS4037-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSMS.CIS4037-N.Present %",
+   "value": "76.04",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS.CIS4040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS.CIS4040-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSMS.CIS4040-N.Present %",
+   "value": "81.25",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS1",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4023-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4023-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4023-N.Present %",
+   "value": "93.75",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4037-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4037-N.Present %",
+   "value": "88.89",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4040-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSMS1.CIS4040-N.Present %",
+   "value": "92.11",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNMS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4012-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4012-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4012-N.Present %",
+   "value": "43.59",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4019-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4019-N.Present %",
+   "value": "55",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4020-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNMS.CIS4020-N.Present %",
+   "value": "41.18",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNPRD",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4012-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4012-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4012-N.Present %",
+   "value": "73.81",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4019-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4019-N.Present %",
+   "value": "84.85",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4020-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNPRD.CIS4020-N.Present %",
+   "value": "63.16",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3064-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3064-N.Pass %",
+   "value": "90.91%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3064-N.Present %",
+   "value": "67.36",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3065-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3065-N.Pass %",
+   "value": "81.82%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3065-N.Present %",
+   "value": "80.68",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3067-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3067-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSNSNG.COM3067-N.Present %",
+   "value": "77.65",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0002-N.Pass %",
+   "value": "73.68%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0002-N.Present %",
+   "value": "33.83",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0003-N.Pass %",
+   "value": "38.10%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0003-N.Present %",
+   "value": "32.54",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0005-N.Pass %",
+   "value": "84.21%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS0005-N.Present %",
+   "value": "35.37",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1010-N.Pass %",
+   "value": "78.57%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1010-N.Present %",
+   "value": "36.44",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1013-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1013-N.Pass %",
+   "value": "57.63%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1013-N.Present %",
+   "value": "40.55",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1018-N.Pass %",
+   "value": "62.71%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS1018-N.Present %",
+   "value": "31.65",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2001-N.Pass %",
+   "value": "85.71%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2001-N.Present %",
+   "value": "51.08",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2017-N.Pass %",
+   "value": "94.29%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2017-N.Present %",
+   "value": "28.37",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2021-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2021-N.Pass %",
+   "value": "80.56%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.CIS2021-N.Present %",
+   "value": "39.88",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3036-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3036-N.Pass %",
+   "value": "80.56%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.COM3036-N.Present %",
+   "value": "47.57",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3037-N.Pass %",
+   "value": "79.59%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.COM3037-N.Present %",
+   "value": "24.32",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3038-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3038-N.Pass %",
+   "value": "90.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.COM3038-N.Present %",
+   "value": "53.91",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3040-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.COM3040-N.Present %",
+   "value": "36.67",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3041-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CSSNG.COM3041-N.Pass %",
+   "value": "79.49%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CSSNG.COM3041-N.Present %",
+   "value": "53.65",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0002-N.Pass %",
+   "value": "62.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0002-N.Present %",
+   "value": "47.32",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0003-N.Pass %",
+   "value": "62.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0003-N.Present %",
+   "value": "45.37",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0005-N.Pass %",
+   "value": "62.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS0005-N.Present %",
+   "value": "53.74",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1001-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1001-N.Present %",
+   "value": "42.58",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1007-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1007-N.Pass %",
+   "value": "90.63%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1007-N.Present %",
+   "value": "48.67",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1018-N.Pass %",
+   "value": "64.52%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS1018-N.Present %",
+   "value": "37.39",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2014-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2014-N.Pass %",
+   "value": "81.58%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2014-N.Present %",
+   "value": "56",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2018-N.Pass %",
+   "value": "86.84%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2018-N.Present %",
+   "value": "42.03",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2026-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2026-N.Pass %",
+   "value": "84.21%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.CYBBS.CIS2026-N.Present %",
+   "value": "31.45",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DGMBS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DGMBS.MUL3063-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DGMBS.MUL3063-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DGMBS.MUL3063-N.Present %",
+   "value": "90.91",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DGMBS.MUL3064-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DGMBS.MUL3064-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DGMBS.MUL3064-N.Present %",
+   "value": "80.95",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DGMBS.VIS3103-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DGMBS.VIS3103-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DGMBS.VIS3103-N.Present %",
+   "value": "85.48",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSAMS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4008-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4008-N.Present %",
+   "value": "59.26",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4009-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4009-N.Present %",
+   "value": "70",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4010-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DTSAMS.CIS4010-N.Present %",
+   "value": "63.89",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSMS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4008-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4008-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4009-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4009-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4010-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.DTSMS.CIS4010-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.HIFBS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.HIFBS.CIS2016-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.HIFBS.CIS2016-N.Pass %",
+   "value": "54.55%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.HIFBS.CIS2016-N.Present %",
+   "value": "69.16",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.HIFBS.CIS2017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.HIFBS.CIS2017-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.HIFBS.CIS2017-N.Present %",
+   "value": "58.44",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0002-N.Pass %",
+   "value": "71.43%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0002-N.Present %",
+   "value": "39.93",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0003-N.Pass %",
+   "value": "42.86%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0003-N.Present %",
+   "value": "51.56",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0005-N.Pass %",
+   "value": "71.43%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS0005-N.Present %",
+   "value": "33.33",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1005-N.Pass %",
+   "value": "92.31%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1005-N.Present %",
+   "value": "68.16",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1018-N.Pass %",
+   "value": "84.62%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1018-N.Present %",
+   "value": "47.44",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1019-N.Pass %",
+   "value": "84.62%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS1019-N.Present %",
+   "value": "65.96",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2015-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2015-N.Pass %",
+   "value": "90.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2015-N.Present %",
+   "value": "70.91",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2016-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2016-N.Pass %",
+   "value": "80.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2016-N.Present %",
+   "value": "57.11",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2017-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.CIS2017-N.Present %",
+   "value": "47.83",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.COM3038-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.COM3038-N.Pass %",
+   "value": "95.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.COM3038-N.Present %",
+   "value": "46.39",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.COM3040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.COM3040-N.Pass %",
+   "value": "95.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.COM3040-N.Present %",
+   "value": "41.39",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.MUL3051-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.INFSNG.MUL3051-N.Pass %",
+   "value": "95.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.INFSNG.MUL3051-N.Present %",
+   "value": "56.9",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4021-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4021-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4021-N.Present %",
+   "value": "80",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4022-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4022-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4022-N.Present %",
+   "value": "87.5",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4023-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4023-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.IPMMS.CIS4023-N.Present %",
+   "value": "66.67",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS.COM3038-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMMS.COM3038-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.IPMMS.COM3038-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4021-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4021-N.Pass %",
+   "value": "85.71%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4021-N.Present %",
+   "value": "78.13",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4022-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4022-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4022-N.Present %",
+   "value": "80.56",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4023-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4023-N.Pass %",
+   "value": "62.50%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.IPMPRD.CIS4023-N.Present %",
+   "value": "70.37",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD.COM4077-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.IPMPRD.COM4077-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.IPMPRD.COM4077-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.MUTBS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1000-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1000-N.Pass %",
+   "value": "58.82%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1000-N.Present %",
+   "value": "64.93",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1001-N.Pass %",
+   "value": "64.71%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1001-N.Present %",
+   "value": "73.53",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1002-N.Pass %",
+   "value": "76.47%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.MUTBS.CAM1002-N.Present %",
+   "value": "72.79",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.CIS0005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.CIS0005-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.CIS0005-N.Present %",
+   "value": "36.89",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.CIS1018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.CIS1018-N.Pass %",
+   "value": "80.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.CIS1018-N.Present %",
+   "value": "35.05",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.COM3042-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.COM3042-N.Pass %",
+   "value": "93.33%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.COM3042-N.Present %",
+   "value": "63.54",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.COM3046-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.COM3046-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.COM3046-N.Present %",
+   "value": "73.15",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.COM3047-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.COM3047-N.Pass %",
+   "value": "76.19%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.COM3047-N.Present %",
+   "value": "49.92",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.COM3050-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.COM3050-N.Pass %",
+   "value": "57.14%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.COM3050-N.Present %",
+   "value": "57.76",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV0002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV0002-N.Pass %",
+   "value": "55.56%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.GAV0002-N.Present %",
+   "value": "45.14",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV0003-N.Pass %",
+   "value": "55.56%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.GAV0003-N.Present %",
+   "value": "28.41",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV1004-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV1004-N.Pass %",
+   "value": "81.82%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.GAV1004-N.Present %",
+   "value": "35.98",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV1030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV1030-N.Pass %",
+   "value": "88.24%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.GAV1030-N.Present %",
+   "value": "44.53",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2004-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2004-N.Pass %",
+   "value": "72.73%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2004-N.Present %",
+   "value": "34.34",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2005-N.Pass %",
+   "value": "77.14%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2005-N.Present %",
+   "value": "27.53",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2016-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2016-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.GAV2016-N.Present %",
+   "value": "49.17",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV3020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.UPSNG.GAV3020-N.Pass %",
+   "value": "97.30%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.UPSNG.GAV3020-N.Present %",
+   "value": "27.54",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1009-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1009-N.Present %",
+   "value": "69.17",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1018-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1018-N.Present %",
+   "value": "69.64",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1019-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.CIS1019-N.Present %",
+   "value": "59.09",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2009-N.Pass %",
+   "value": "88.89%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2009-N.Present %",
+   "value": "73.1",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2017-N.Pass %",
+   "value": "88.89%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2017-N.Present %",
+   "value": "68.82",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2019-N.Pass %",
+   "value": "88.89%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.CIS2019-N.Present %",
+   "value": "64.51",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3059-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3059-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3059-N.Present %",
+   "value": "78.4",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3060-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3060-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3060-N.Present %",
+   "value": "77.78",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3061-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3061-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WBPBS.MUL3061-N.Present %",
+   "value": "70.99",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WMMSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WMMSNG.MUL3051-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WMMSNG.MUL3051-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WMMSNG.MUL3051-N.Present %",
+   "value": "62.07",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WMMSNG.MUL3055-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WMMSNG.MUL3055-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WMMSNG.MUL3055-N.Present %",
+   "value": "70",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WMMSNG.VIS3103-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CSIS.WMMSNG.VIS3103-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CSIS.WMMSNG.VIS3103-N.Present %",
+   "value": "68.06",
+   "colour": ""
+ }
+]

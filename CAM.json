@@ -1,0 +1,2112 @@
+[
+ {
+   "id": "CAM",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM0001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM0001-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.CAM0001-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM0002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM0002-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.CAM0002-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1008-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1008-N.Present %",
+   "value": "91.67",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1009-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1009-N.Present %",
+   "value": "79.37",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1030-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.CAM1030-N.Present %",
+   "value": "60.23",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.GAV0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.GAV0003-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.GAV0003-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MED3040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MED3040-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.MED3040-N.Present %",
+   "value": "78.26",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MED3050-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MED3050-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.MED3050-N.Present %",
+   "value": "92.75",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MED3051-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MED3051-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.MED3051-N.Present %",
+   "value": "89.47",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2005-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2005-N.Present %",
+   "value": "88.89",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2006-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2006-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2006-N.Present %",
+   "value": "71.79",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2007-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2007-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.BMPSNG.MFP2007-N.Present %",
+   "value": "68.33",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CAMA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CAMA.GAV4017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CAMA.GAV4017-N.Pass %",
+   "value": "88.89%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CAMA.GAV4017-N.Present %",
+   "value": "39.43",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CAMA.GAV4018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CAMA.GAV4018-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CAMA.GAV4018-N.Present %",
+   "value": "45.28",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CAMA.GAV4028-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CAMA.GAV4028-N.Pass %",
+   "value": "88.89%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CAMA.GAV4028-N.Present %",
+   "value": "43.36",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV0003-N.Pass %",
+   "value": "76.92%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV0003-N.Present %",
+   "value": "34.67",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV0004-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV0004-N.Pass %",
+   "value": "64.29%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV0004-N.Present %",
+   "value": "39.89",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV0005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV0005-N.Pass %",
+   "value": "71.43%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV0005-N.Present %",
+   "value": "37.83",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV1003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV1003-N.Pass %",
+   "value": "92.38%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV1003-N.Present %",
+   "value": "20.16",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV1006-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV1006-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV1006-N.Present %",
+   "value": "38.59",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV1009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV1009-N.Pass %",
+   "value": "83.50%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV1009-N.Present %",
+   "value": "21.75",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV1015-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV1015-N.Pass %",
+   "value": "95.19%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV1015-N.Present %",
+   "value": "12.58",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV2007-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV2007-N.Pass %",
+   "value": "84.06%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV2007-N.Present %",
+   "value": "24.43",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV2025-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV2025-N.Pass %",
+   "value": "80.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV2025-N.Present %",
+   "value": "19.8",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV2028-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV2028-N.Pass %",
+   "value": "85.71%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV2028-N.Present %",
+   "value": "22.62",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV3003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV3003-N.Pass %",
+   "value": "92.86%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV3003-N.Present %",
+   "value": "34.45",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV3010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV3010-N.Pass %",
+   "value": "97.62%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV3010-N.Present %",
+   "value": "17.41",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV3021-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CATSNG.GAV3021-N.Pass %",
+   "value": "97.62%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CATSNG.GAV3021-N.Present %",
+   "value": "31.6",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.CAM0001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.CAM0001-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGNBA.CAM0001-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.CAM1030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.CAM1030-N.Pass %",
+   "value": "82.35%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGNBA.CAM1030-N.Present %",
+   "value": "60.63",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.CAM1031-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.CAM1031-N.Pass %",
+   "value": "88.24%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGNBA.CAM1031-N.Present %",
+   "value": "79.82",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV0004-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV0004-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGNBA.GAV0004-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV0005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV0005-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGNBA.GAV0005-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV1003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV1003-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGNBA.GAV1003-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV1009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV1009-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGNBA.GAV1009-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV1015-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGNBA.GAV1015-N.Pass %",
+   "value": "94.44%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGNBA.GAV1015-N.Present %",
+   "value": "38.54",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.CAM1030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.CAM1030-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGSSNG.CAM1030-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES2187-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES2187-N.Pass %",
+   "value": "89.29%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGSSNG.DES2187-N.Present %",
+   "value": "48.74",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES2188-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES2188-N.Pass %",
+   "value": "93.55%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGSSNG.DES2188-N.Present %",
+   "value": "42.46",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES2193-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES2193-N.Pass %",
+   "value": "87.10%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGSSNG.DES2193-N.Present %",
+   "value": "43.3",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES3095-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES3095-N.Pass %",
+   "value": "95.24%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGSSNG.DES3095-N.Present %",
+   "value": "79.87",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES3096-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.DES3096-N.Pass %",
+   "value": "95.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGSSNG.DES3096-N.Present %",
+   "value": "75.22",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.GAV1015-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.CGSSNG.GAV1015-N.Pass %",
+   "value": "0.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.CGSSNG.GAV1015-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DCMPRD",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4036-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4036-N.Pass %",
+   "value": "80.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4036-N.Present %",
+   "value": "64.44",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4037-N.Pass %",
+   "value": "85.71%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4037-N.Present %",
+   "value": "75",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4042-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4042-N.Pass %",
+   "value": "85.71%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.DCMPRD.CAM4042-N.Present %",
+   "value": "58.33",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DNCSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DNCSNG.PER3012-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DNCSNG.PER3012-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.DNCSNG.PER3012-N.Present %",
+   "value": "67.86",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DNCSNG.PER3018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DNCSNG.PER3018-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.DNCSNG.PER3018-N.Present %",
+   "value": "81.82",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DNCSNG.PER3025-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.DNCSNG.PER3025-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.DNCSNG.PER3025-N.Present %",
+   "value": "68.42",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.CAM1018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.CAM1018-N.Pass %",
+   "value": "92.86%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.CAM1018-N.Present %",
+   "value": "73.21",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.CAM1020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.CAM1020-N.Pass %",
+   "value": "92.86%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.CAM1020-N.Present %",
+   "value": "88.96",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.CAM1022-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.CAM1022-N.Pass %",
+   "value": "92.86%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.CAM1022-N.Present %",
+   "value": "78.1",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.FAE2014-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.FAE2014-N.Pass %",
+   "value": "69.23%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.FAE2014-N.Present %",
+   "value": "62.82",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.FAE2016-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.FAE2016-N.Pass %",
+   "value": "80.77%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.FAE2016-N.Present %",
+   "value": "67.47",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.FAE3010-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.FAE3010-N.Pass %",
+   "value": "86.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.FAE3010-N.Present %",
+   "value": "70.95",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.FAE3013-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.FAE3013-N.Pass %",
+   "value": "80.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.FAE3013-N.Present %",
+   "value": "70.51",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.GAV0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.GAV0003-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.GAV0003-N.Present %",
+   "value": "49.02",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.GAV0004-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.GAV0004-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.GAV0004-N.Present %",
+   "value": "66.67",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.GAV0005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FASNG.GAV0005-N.Pass %",
+   "value": "66.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FASNG.GAV0005-N.Present %",
+   "value": "83.33",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2017-N.Pass %",
+   "value": "58.33%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2017-N.Present %",
+   "value": "70.83",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2019-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2019-N.Present %",
+   "value": "81.25",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2024-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2024-N.Pass %",
+   "value": "25.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2024-N.Present %",
+   "value": "48.61",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2026-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2026-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FMCUBA.MFP2026-N.Present %",
+   "value": "75",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FOMA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FOMA.CAM4017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FOMA.CAM4017-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FOMA.CAM4017-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FOMA.CAM4057-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FOMA.CAM4057-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FOMA.CAM4057-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM0001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM0001-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.CAM0001-N.Present %",
+   "value": "43.45",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM0002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM0002-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.CAM0002-N.Present %",
+   "value": "67.97",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM1009-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM1009-N.Pass %",
+   "value": "96.55%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.CAM1009-N.Present %",
+   "value": "81.38",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM1016-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM1016-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.CAM1016-N.Present %",
+   "value": "46.98",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM1030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.CAM1030-N.Pass %",
+   "value": "93.10%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.CAM1030-N.Present %",
+   "value": "74.76",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.GAV0003-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.GAV0003-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.GAV0003-N.Present %",
+   "value": "24.03",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.MFP2005-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.MFP2005-N.Pass %",
+   "value": "91.84%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.MFP2005-N.Present %",
+   "value": "42.22",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.MFP2006-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.MFP2006-N.Pass %",
+   "value": "92.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.MFP2006-N.Present %",
+   "value": "27.11",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.MFP2008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.MFP2008-N.Pass %",
+   "value": "93.88%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.MFP2008-N.Present %",
+   "value": "31.64",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.MFP2019-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FTPBA.MFP2019-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FTPBA.MFP2019-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4016-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4016-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4016-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4017-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4017-N.Pass %",
+   "value": "90.91%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4017-N.Present %",
+   "value": "31.36",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4057-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4057-N.Pass %",
+   "value": "77.78%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FUAPRD.CAM4057-N.Present %",
+   "value": "9.85",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD.DES4032-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.FUAPRD.DES4032-N.Pass %",
+   "value": "76.92%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.FUAPRD.DES4032-N.Present %",
+   "value": "72.76",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1008-N.Pass %",
+   "value": "76.47%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1008-N.Present %",
+   "value": "62.59",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1011-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1011-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1011-N.Present %",
+   "value": "97.92",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1012-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1012-N.Pass %",
+   "value": "94.12%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.CAM1012-N.Present %",
+   "value": "80.3",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MED3007-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MED3007-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.MED3007-N.Present %",
+   "value": "61.41",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MED3030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MED3030-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.MED3030-N.Present %",
+   "value": "65.94",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MED3047-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MED3047-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.MED3047-N.Present %",
+   "value": "76.57",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MED3055-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MED3055-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.MED3055-N.Present %",
+   "value": "76.04",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2024-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2024-N.Pass %",
+   "value": "83.33%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2024-N.Present %",
+   "value": "53.73",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2026-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2026-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2026-N.Present %",
+   "value": "83.97",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2027-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2027-N.Pass %",
+   "value": "91.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.MFP2027-N.Present %",
+   "value": "90.38",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MPR3002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.JOUSNG.MPR3002-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.JOUSNG.MPR3002-N.Present %",
+   "value": "75",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MDCBA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MDCBA.CAM1030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MDCBA.CAM1030-N.Pass %",
+   "value": "90.91%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MDCBA.CAM1030-N.Present %",
+   "value": "79.09",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MDCBA.CAM1035-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MDCBA.CAM1035-N.Pass %",
+   "value": "90.91%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MDCBA.CAM1035-N.Present %",
+   "value": "86.36",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MDCBA.CAM1036-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MDCBA.CAM1036-N.Pass %",
+   "value": "90.91%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MDCBA.CAM1036-N.Present %",
+   "value": "86.55",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG.MED3007-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG.MED3007-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MJMSNG.MED3007-N.Present %",
+   "value": "81.67",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG.MED3030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG.MED3030-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MJMSNG.MED3030-N.Present %",
+   "value": "82.5",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG.MED3047-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG.MED3047-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MJMSNG.MED3047-N.Present %",
+   "value": "86.46",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG.MPR3002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJMSNG.MPR3002-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MJMSNG.MPR3002-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG.MED3030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG.MED3030-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MJSSNG.MED3030-N.Present %",
+   "value": "67.42",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG.MED3047-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG.MED3047-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MJSSNG.MED3047-N.Present %",
+   "value": "66.4",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG.MED3055-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG.MED3055-N.Pass %",
+   "value": "90.91%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MJSSNG.MED3055-N.Present %",
+   "value": "79.17",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG.MPR3002-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MJSSNG.MPR3002-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MJSSNG.MPR3002-N.Present %",
+   "value": "53.14",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MMJSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MMJSNG.MED3030-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MMJSNG.MED3030-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MMJSNG.MED3030-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MMJSNG.MED3047-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MMJSNG.MED3047-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MMJSNG.MED3047-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MMJSNG.MED3055-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MMJSNG.MED3055-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MMJSNG.MED3055-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MPRPRD",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4037-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4037-N.Pass %",
+   "value": "50.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4037-N.Present %",
+   "value": "64.25",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4039-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4039-N.Pass %",
+   "value": "75.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4039-N.Present %",
+   "value": "68.6",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4040-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MPRPRD.CAM4040-N.Present %",
+   "value": "61.61",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG.MED3007-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG.MED3007-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MZSNG.MED3007-N.Present %",
+   "value": "82.69",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG.MED3020-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG.MED3020-N.Pass %",
+   "value": "78.57%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MZSNG.MED3020-N.Present %",
+   "value": "74.15",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG.MED3036-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG.MED3036-N.Pass %",
+   "value": "93.33%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MZSNG.MED3036-N.Present %",
+   "value": "58.93",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG.MED3047-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.MZSNG.MED3047-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.MZSNG.MED3047-N.Present %",
+   "value": "64.29",
+   "colour": ""
+ },
+ {
+   "id": "CAM.OABA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.OABA.CAM2039-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.OABA.CAM2039-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.OABA.CAM2039-N.Present %",
+   "value": "91.67",
+   "colour": ""
+ },
+ {
+   "id": "CAM.OABA.CAM2040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.OABA.CAM2040-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.OABA.CAM2040-N.Present %",
+   "value": "96.25",
+   "colour": ""
+ },
+ {
+   "id": "CAM.OABA.MFP2001-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.OABA.MFP2001-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.OABA.MFP2001-N.Present %",
+   "value": "91.6",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMA.CAM4061-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMA.CAM4061-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PFTMA.CAM4061-N.Present %",
+   "value": "80.21",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMA.CAM4062-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMA.CAM4062-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PFTMA.CAM4062-N.Present %",
+   "value": "85.42",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMA.CAM4063-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMA.CAM4063-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PFTMA.CAM4063-N.Present %",
+   "value": "87.76",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMAE",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4061-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4061-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4061-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4062-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4062-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4062-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4063-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4063-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PFTMAE.CAM4063-N.Present %",
+   "value": "100",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PLMSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PLMSNG.PER3008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PLMSNG.PER3008-N.Pass %",
+   "value": "95.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PLMSNG.PER3008-N.Present %",
+   "value": "77.81",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PLMSNG.PER3018-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PLMSNG.PER3018-N.Pass %",
+   "value": "95.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PLMSNG.PER3018-N.Present %",
+   "value": "79.09",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PLMSNG.PER3028-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.PLMSNG.PER3028-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.PLMSNG.PER3028-N.Present %",
+   "value": "73.33",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.CAM1008-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.CAM1008-N.Pass %",
+   "value": "90.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.SPJBA.CAM1008-N.Present %",
+   "value": "91.67",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.CAM1011-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.CAM1011-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.SPJBA.CAM1011-N.Present %",
+   "value": "96.67",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.CAM1027-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.CAM1027-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.SPJBA.CAM1027-N.Present %",
+   "value": "90.91",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.MFP2026-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.MFP2026-N.Pass %",
+   "value": "87.50%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.SPJBA.MFP2026-N.Present %",
+   "value": "84.62",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.MFP2027-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.MFP2027-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.SPJBA.MFP2027-N.Present %",
+   "value": "92.71",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.MFP2028-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.SPJBA.MFP2028-N.Pass %",
+   "value": "100.00%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.SPJBA.MFP2028-N.Present %",
+   "value": "81.52",
+   "colour": ""
+ },
+ {
+   "id": "CAM.TFPSNG",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.TFPSNG.MED3040-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.TFPSNG.MED3040-N.Pass %",
+   "value": "93.02%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.TFPSNG.MED3040-N.Present %",
+   "value": "27.96",
+   "colour": ""
+ },
+ {
+   "id": "CAM.TFPSNG.MED3050-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.TFPSNG.MED3050-N.Pass %",
+   "value": "97.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.TFPSNG.MED3050-N.Present %",
+   "value": "50.13",
+   "colour": ""
+ },
+ {
+   "id": "CAM.TFPSNG.MED3051-N",
+   "value": "",
+   "colour": ""
+ },
+ {
+   "id": "CAM.TFPSNG.MED3051-N.Pass %",
+   "value": "97.67%",
+   "colour": " "
+ },
+ {
+   "id": "CAM.TFPSNG.MED3051-N.Present %",
+   "value": "48.43",
+   "colour": ""
+ }
+]
