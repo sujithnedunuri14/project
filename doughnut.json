@@ -1,37 +1,37 @@
 [
-        {
-            "Year": 0,
-            "Average_of_Mark": 47.03,
-            "DirectEntry": 0
-        },
-        {
-            "Year": 1,
-            "Average_of_Mark": 54.19,
-            "DirectEntry": 0
-        },
-        {
-            "Year": 2,
-            "Average_of_Mark": 55.03,
-            "DirectEntry": 0
-        },
-        {
-            "Year": 2,
-            "Average_of_Mark": 59.82,
-            "DirectEntry": 1
-        },
-        {
-            "Year": 3,
-            "Average_of_Mark": 59.01,
-            "DirectEntry": 0
-        },
-        {
-            "Year": 3,
-            "Average_of_Mark": 50.11,
-            "DirectEntry": 1
-        },
-        {
-            "Year": 4,
-            "Average_of_Mark": 55.04,
-            "DirectEntry": 0
-        }
-    ]
+  {
+    "Year":0,
+    "Average_of_Mark":47.03,
+    "DirectEntry":0
+  },
+  {
+    "Year":1,
+    "Average_of_Mark":54.19,
+    "DirectEntry":0
+  },
+  {
+    "Year":2,
+    "Average_of_Mark":55.03,
+    "DirectEntry":0
+  },
+  {
+    "Year":2,
+    "Average_of_Mark":59.82,
+    "DirectEntry":1
+  },
+  {
+    "Year":3,
+    "Average_of_Mark":59.01,
+    "DirectEntry":0
+  },
+  {
+    "Year":3,
+    "Average_of_Mark":50.11,
+    "DirectEntry":1
+  },
+  {
+    "Year":4,
+    "Average_of_Mark":55.04,
+    "DirectEntry":0
+  }
+]
