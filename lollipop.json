@@ -1,20 +1,17 @@
 [
  {
    "Department": "CAM",
-   "Grade": "F",
-   "StuduentID": 130,
-   "Count of Status": 8
+   "Averag_ Failed_Count": 44,
+   "Count_of_Status": 8
  },
  {
    "Department": "CSIS",
-   "Grade": "F",
-   "StuduentID": 379,
-   "Count of Status": 33
+   "Averag_ Failed_Count": 93,
+   "Count_of_Status": 33
  },
  {
    "Department": "GAV",
-   "Grade": "F",
-   "StuduentID": 930,
-   "Count of Status": 62
+   "Averag_ Failed_Count": 201,
+   "Count_of_Status": 62
  }
 ]
