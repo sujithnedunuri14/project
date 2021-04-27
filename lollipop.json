@@ -1,17 +1,17 @@
 [
  {
    "Department": "CAM",
-   "Averag_ Failed_Count": 44,
+   "Averag_Failed_Count": 44,
    "Count_of_Status": 8
  },
  {
    "Department": "CSIS",
-   "Averag_ Failed_Count": 93,
+   "Averag_Failed_Count": 93,
    "Count_of_Status": 33
  },
  {
    "Department": "GAV",
-   "Averag_ Failed_Count": 201,
+   "Averag_Failed_Count": 201,
    "Count_of_Status": 62
  }
 ]
