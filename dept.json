@@ -1,52 +1,52 @@
 [
-   {
-      "id":"Dept",
-      "value":"",
-      "color":""
-   },
-   {
-      "id":"Dept.CAM",
-      "value":"",
-      "color":""
-   },
-   {
-      "id":"Dept.CAM.Pass %",
-      "value":"83.55",
-      "color":""
-   },
-   {
-      "id":"Dept.CAM.Present %",
-      "value":"50.43",
-      "color":""
-   },
-   {
-      "id":"Dept.CSIS",
-      "value":"",
-      "color":""
-   },
-   {
-      "id":"Dept.CSIS.Pass %",
-      "value":"71.13",
-      "color":""
-   },
-   {
-      "id":"Dept.CSIS.Present %",
-      "value":"49.12",
-      "color":""
-   },
-   {
-      "id":"Dept.GAV",
-      "value":"",
-      "color":""
-   },
-   {
-      "id":"Dept.GAV.Pass %",
-      "value":"78.85",
-      "color":""
-   },
-   {
-      "id":"Dept.GAV.Present %",
-      "value":"49.43",
-      "color":""
-   }
+  {
+    "id": "Department",
+    "value": "",
+    "color": ""
+  },
+  {
+    "id": "Department.CAM",
+    "value": "",
+    "color": ""
+  },
+  {
+    "id": "Department.CAM.Pass %",
+    "value": "83.55",
+    "color": ""
+  },
+  {
+    "id": "Department.CAM.Present %",
+    "value": "50.43",
+    "color": ""
+  },
+  {
+    "id": "Department.CSIS",
+    "value": "",
+    "color": ""
+  },
+  {
+    "id": "Department.CSIS.Pass %",
+    "value": "71.13",
+    "color": ""
+  },
+  {
+    "id": "Department.CSIS.Present %",
+    "value": "49.12",
+    "color": ""
+  },
+  {
+    "id": "Department.GAV",
+    "value": "",
+    "color": ""
+  },
+  {
+    "id": "Department.GAV.Pass %",
+    "value": "78.85",
+    "color": ""
+  },
+  {
+    "id": "Department.GAV.Present %",
+    "value": "49.43",
+    "color": ""
+  }
 ]
